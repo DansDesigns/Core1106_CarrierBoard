@@ -1,7 +1,8 @@
 
 # Core1106_CarrierBoard
  Carrier Board for LuckFox Core1106 Linux SBC
-![LuckFox_Core1106_EasyRead_Pinout](https://github.com/user-attachments/assets/b2130b50-3a8a-4c69-81b6-4ffb267ba8a8)
+![LuckFox_Core1106_EasyRead_Pinout](https://github.com/user-attachments/assets/c17aad84-e614-4e15-8da9-4362e65075ea)
+
 ## Features:
 
 * All usable GPIO's are connected to 2.54mm Pin Headers (all 3.3v Logic EXCEPT Pin20 (1.8v MAX))
